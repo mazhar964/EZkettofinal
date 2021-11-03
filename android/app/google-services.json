@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "989334252515",
+    "project_id": "ezketto-d4aea",
+    "storage_bucket": "ezketto-d4aea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989334252515:android:7516197dd3202002988ed6",
+        "android_client_info": {
+          "package_name": "com.example.ezketto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989334252515-0a0r4u9f9bn5q5vctq3rq43rva6ls68a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezketto",
+            "certificate_hash": "e87d59fd12c6eaf0bd19d4d6be9f6f064b5bdde5"
+          }
+        },
+        {
+          "client_id": "989334252515-b2dpp8cmcoas2st8l7bvj1rm6sg430o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0aP3f3exj6coMCLGF4oNXbjdkbJ_lmjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989334252515-b2dpp8cmcoas2st8l7bvj1rm6sg430o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
