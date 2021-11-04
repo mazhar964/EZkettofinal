@@ -100,6 +100,7 @@ class _home1State extends State<home1> {
                 ),
               ),
               Container(
+                color:colors.red; for test only 
                 height: 300,
                 width:400,
                 color: Color(0xffFFFFFF),
