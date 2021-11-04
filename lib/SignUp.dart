@@ -28,6 +28,7 @@ class _SignUpState extends State<SignUp> {
   final _key = GlobalKey<FormState>();
   String _password = '';
   String _confirmPassword = '';
+  // here is new test code for branche 1
 
   final AuthenticationService _auth = AuthenticationService();
 
